@@ -1,3 +1,4 @@
+Nom : Ando Josué Félix Roger
 Dépôt Github contenant les fonctions :
 computeMultiplesSum(n);
 computeJointPoint(s1, s2);
